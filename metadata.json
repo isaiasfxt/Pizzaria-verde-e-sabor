@@ -1,0 +1,6 @@
+{
+  "name": "Pizzaria Verde & Sabor",
+  "description": "Aplicativo de delivery para pizzaria com cardápio completo e pedidos via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
